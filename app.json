@@ -1,7 +1,7 @@
 {
-  "name": "SHEIKH-ALI-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟɪ ᴀʜᴍᴀᴅ",
-  "logo": "https://i.ibb.co/hVndwHm/6995.jpg",
+  "name": "ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ",
+  "description": "SHEIKH ALI MD IS THE MAKE BY USING BAILEY'S",
+  "logo": "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/n3hHrtw/8980.jpg"
+      "value": "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HI DEAR I'M ONLINE I'M 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ WHATSAPP BOT 😊"
+      "value": "HI DEAR I'M ONLINE I'M 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ WHATSAPP BOT 😊♻️"
     },
     
     "PREFIX": {
@@ -49,18 +49,6 @@
       "value": "true"
     }, 
 
-    "ANTI_CALL": {
-      "description": "true this to reject calls automatically .",
-      "required": false,
-      "value": "fals"
-    }, 
-
-    "AUTO_TYPING": {
-      "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "true"
-    },
-
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
@@ -70,7 +58,7 @@
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ANTI_LINK": {
@@ -82,19 +70,13 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "true"
-    }, 
-
-   "CURRENT_STATUS": {
-      "description": "Make it true if want automatic voice reply .",
-      "required": false,
       "value": "false"
     }, 
 
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REACT": {
@@ -110,53 +92,11 @@
     
     }, 
 
-   "ALWAYS_ONLINE": {
-      "description": "Make it true if want automatic voice reply .",
-      "required": false,
-      "value": "true"
-    }, 
-
-  "AUTO_STATUS_REPLY": {
-      "description": "Make it true if want automatic status reply .",
-      "required": false,
-      "value": "true"
-    },    
-
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
       "value": "❖ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ❖"
-    }, 
-
-    "CUSTOM_REACT": {
-      "description": "Make it true if you want custom reactions.",
-      "required": false,
-      "value": "true"
-      
-    }, 
-    
-    "CUSTOM_REACT_EMOJIS": {
-      "description": "put here custom react react emojis.",
-      "required": false,
-      "value": "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍"
-    },
-
-    "READ_MESSAGE": {
-      "description": "Make it true if you want bot read your all sms just now.",
-      "required": true,
-      "value": "false"
-    }, 
-    "CAPTION": {
-      "description": "enter your caption if you want to show on menu.",
-      "required": true,
-      "value": "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼*"
-    }, 
-    "AUTO_STATUS__MSG": {
-      "description": "enter your caption if you want to show on status reply.",
-      "required": true,
-      "value": "ʏᴏᴜʀ sᴛᴀᴛᴜs sᴇᴇɴ ᴊᴜsᴛ ɴᴏᴡ ʙʏ ♥️🌸⃝𝐂𝐮𝐭𝐞 𝐬𝐡𝐞𝐢𝐤𝐡ᥫ᭡👑"
     }
-
 
 },
 
