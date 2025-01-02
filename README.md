@@ -155,5 +155,5 @@ jobs:
 | [![Owner](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-***⚠️THANKS FOR USING SHEIKH-ALI-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
+***⚠️THANKS FOR USING SHEIKH-ALI-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANK YOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
