@@ -90,7 +90,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 <p align="center">
-<a href='https://silent-sobx-md-web-pair.onrender.com' target="_blank">
+<a href='https://sheikh-ali-md-pair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
