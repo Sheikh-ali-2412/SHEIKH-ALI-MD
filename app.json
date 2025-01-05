@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg"
+      "value": "https://i.imghippo.com/files/yFpQ9125wYo.jpg"
     }, 
     
     "ALIVE_MSG": {
