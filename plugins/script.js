@@ -38,7 +38,7 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '12036323288171807@newsletter',
-      newsletterName: "ALIAHMAD2406",
+      newsletterName: "𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶",
       serverMessageId: 999
     },
 externalAdReply: { 
@@ -46,7 +46,7 @@ title: 'SHEIKH-ALI-MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD" ,
-thumbnailUrl: "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg" ,
+thumbnailUrl: "https://i.ibb.co/hVndwHm/6995.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
