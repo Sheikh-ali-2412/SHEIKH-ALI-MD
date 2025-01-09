@@ -65,12 +65,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-### <br> ❖ DEPLOY  METHOD ❖
-
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92314XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
