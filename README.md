@@ -2,10 +2,8 @@
 <p
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-### <br>   👑 SHEIKH-ALI-MD 👑
+[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
 
-💫 **`THE WORLD BEST WHATSAPP BOT CREATED BY 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼²⁴⁰⁶`** 💫
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=ALI+AHMAD+WHATSAPP+BOT+DEVELOPER" alt="">
