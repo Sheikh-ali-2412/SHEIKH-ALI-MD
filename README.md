@@ -54,22 +54,16 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
 
 <p align="center">
-  <a href="https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-`✠  CLICK THIS RED BUTTON 🔳 AND JOIN OUR CHANNEL ✠`
+`✠  JOIN OUR CHANNEL ✠`
 
-<a href="[https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-`✠  CLICK THIS BLUE BUTTON 🔳 AND JOIN OUR YOUTUBE CHANNEL ✠`
-
-<a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -99,7 +93,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
-`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY SHEIKH-ALI-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD)
 
