@@ -61,7 +61,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
+[![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
