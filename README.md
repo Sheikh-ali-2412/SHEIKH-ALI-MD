@@ -132,7 +132,7 @@ jobs:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=blue&lines=𝐎𝐖𝐍𝐄𝐑+:+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐)](https://git.io/typing-svg)              
 |--------------------------------|
-| [![Owner](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
+| [![Owner](https://i.imghippo.com/files/yFpQ9125wYo.jpg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ***⚠️THANKS FOR USING SHEIKH-ALI-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANK YOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
