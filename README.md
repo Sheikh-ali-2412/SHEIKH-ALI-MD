@@ -33,7 +33,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 <div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-MD/count.svg" /><br>SHEIKH-ALI-MD</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐀𝐍𝐃+𝐒𝐓𝐀𝐑+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikh-ali-2412%2FSHEIKH-ALI-AHMAD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
@@ -47,7 +47,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 [![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-white)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/fork)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"> 
 
-### <br> ❖ FOR SUPPORT ❖
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑+𝐒𝐔𝐏𝐏𝐎𝐑𝐓)](https://git.io/typing-svg)
 
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
 
@@ -57,7 +57,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-`✠  JOIN OUR CHANNEL ✠`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐉𝐎𝐈𝐍+𝐎𝐔𝐑+𝐂𝐇𝐀𝐍𝐍𝐄𝐋)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -66,7 +66,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)](https://git.io/typing-svg)
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92314XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
