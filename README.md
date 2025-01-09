@@ -12,7 +12,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg?v=4&backgroundColor=%23ecf0f1&github=Sheikh-ali-2412&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/HKXv2X0/4611.jpg?v=4&backgroundColor=%23ecf0f1&github=Sheikh-ali-2412&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_MD...;Created+by+ALI+AHMAD+FAROOQ...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH-ALI-MD..."
