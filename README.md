@@ -59,7 +59,10 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 `✠  JOIN OUR CHANNEL ✠`
 
-[![https://telegram.me/Sheikh_ali_ahmad_24](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄʜᴀɴɴᴇʟ-purple.svg?style=flat-square)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
+<div align="center">
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
