@@ -15,7 +15,7 @@
 src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/HKXv2X0/4611.jpg?v=4&backgroundColor=%23ecf0f1&github=Sheikh-ali-2412&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_MD...;Created+by+ALI+AHMAD+FAROOQ...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH-ALI-MD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ...;ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+ᴀʟɪ+ᴀʜᴍᴀᴅ+ғᴀʀᴏᴏǫ...;ᴡᴏʀʟᴅ+ʙᴇsᴛ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ...;sɪᴍᴘʟᴇ+ᴊᴀᴠᴀ+sᴄʀɪᴘᴛ+ʙᴏᴛ...;sɪᴍᴘʟᴇ+ᴀɴᴅ+ғᴀsᴛ+ᴅᴇᴘʟᴏʏ...;ᴛʜᴀɴᴋs+ʏᴏᴜ+ғᴏʀ+ᴜsɪɴɢ+sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ..."
 
 <br>
 
@@ -88,7 +88,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+ALI+AHMAD+FAROOQ" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+ᴀʟɪ+ᴀʜᴍᴀᴅ+ғᴀʀᴏᴏǫ" alt="">
 <hr>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -135,5 +135,5 @@ jobs:
 |--------------------------------|
 | [![Owner](https://i.ibb.co/HKXv2X0/4611.jpg)](https://github.com/sadiyamin/Alexa/) | [![ALI AHMAD](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-***⚠️THANKS FOR USING SHEIKH-ALI-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANK YOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
+***⚠️THANKS FOR USING SHEIKH-ALI-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANK YOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 𝑴𝑫🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
