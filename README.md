@@ -82,7 +82,9 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 `✠ IF YOU WANT TO DEPLOY SHEIKH-ALI-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD)
+<p align="center">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
