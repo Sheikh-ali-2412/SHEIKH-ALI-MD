@@ -23,10 +23,10 @@ const axios = require('axios');
                                  const synonyms = definitionData.meanings[0].definitions[0].synonyms.join(', ') || 'No synonyms available';
 
 const wordInfo = `
-📚 *Word*: ${definitionData.word}
-🔍 *Definition*: ${definition}
-📝 *Example*: ${example}
-🔗 *Synonyms*: ${synonyms}
+📚 *ᴡᴏʀᴅ*: ${definitionData.word}
+🔍 *ᴅᴇғɪɴɪᴛɪᴏɴ*: ${definition}
+📝 *ᴇxᴀᴍᴘʟᴇ*: ${example}
+🔗 *sʏɴᴏɴʏᴍs*: ${synonyms}
 
 > *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼*`;
 

@@ -24,7 +24,7 @@ https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD`;
 
         // Send image with caption
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/HKXv2X0/4611.jpg` }, 
+            image: { url: `https://i.ibb.co/k9F88tw/6383.jpg` }, 
             caption: dec, 
             contextInfo: { 
                 mentionedJid: [m.sender], 
