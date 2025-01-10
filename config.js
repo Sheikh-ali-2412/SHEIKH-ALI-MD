@@ -31,7 +31,7 @@ OWNER_NAME: process.env.OWNER_NAME || "𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/HKXv2X0/4611.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/k9F88tw/6383.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> HI DEAR I'M ONLINE I'M 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ WHATSAPP BOT⚡",
 // add alive msg here 
