@@ -25,18 +25,18 @@ async (conn, mek, m, { from, quoted, reply }) => {
 ┃▸└───────────···๏
 ╰────────────────┈⊷
 ╭━━〔 *𝐄𝐧𝐚𝐛𝐥𝐞𝐝 𝐃𝐢𝐬𝐚𝐛𝐥𝐞𝐝* 〕━━┈⊷
-┇๏ *ᴀᴜᴛᴏ ʀᴇᴀᴅ sᴛᴀᴛᴜs:* ${isEnabled(config.AUTO_STATUS_SEEN) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "Disa-bled ❌"}
+┇๏ *ᴀᴜᴛᴏ ʀᴇᴀᴅ sᴛᴀᴛᴜs:* ${isEnabled(config.AUTO_STATUS_SEEN) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀ-ʙʟᴇᴅ ❌"}
 ┇๏ *ᴀᴜᴛᴏ ʀᴇᴘʟʏ sᴛᴀᴛᴜs:* ${isEnabled(config.AUTO_STATUS_REPLY) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ᴀᴜᴛᴏ ʀᴇᴘʟʏ:* ${isEnabled(config.AUTO_REPLY) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
-┇๏ *ᴀᴜᴛᴏ sᴛɪᴄᴋᴇʀ:* ${isEnabled(config.AUTO_STICKER) ? "Enabled ✅" : "Disabled ❌"}
+┇๏ *ᴀᴜᴛᴏ sᴛɪᴄᴋᴇʀ:* ${isEnabled(config.AUTO_STICKER) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ᴀᴜᴛᴏ ᴠᴏɪᴄᴇ:* ${isEnabled(config.AUTO_VOICE) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ᴄᴜsᴛᴏᴍ ʀᴇᴀᴄᴛs:* ${isEnabled(config.CUSTOM_REACT) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ᴀᴜᴛᴏ ʀᴇᴀᴄᴛ:* ${isEnabled(config.AUTO_REACT) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ᴅᴇʟᴇᴛᴇ ʟɪɴᴋs:* ${isEnabled(config.DELETE_LINKS) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ᴀɴᴛɪ-ʟɪɴᴋ:* ${isEnabled(config.ANTI_LINK) ? "Enabled ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ᴀɴᴛɪ-ʙᴀᴅ ᴡᴏʀᴅs:* ${isEnabled(config.ANTI_BAD) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
-┇๏ *Auto Typing:* ${isEnabled(config.AUTO_TYPING) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
-┇๏ *Auto Recording:* ${isEnabled(config.AUTO_RECORDING) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴀᴜᴛᴏ ᴛʏᴘɪɴɢ:* ${isEnabled(config.AUTO_TYPING) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴀᴜᴛᴏ ʀᴇᴄᴏʀᴅɪɴɢ:* ${isEnabled(config.AUTO_RECORDING) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ᴀʟᴡᴀʏs ᴏɴʟɪɴᴇ:* ${isEnabled(config.ALWAYS_ONLINE) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ᴘᴜʙʟɪᴄ ᴍᴏᴅᴇ:* ${isEnabled(config.PUBLIC_MODE) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ┇๏ *ʀᴇᴀᴅ ᴍᴇssᴀɢᴇ:* ${isEnabled(config.READ_MESSAGE) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
