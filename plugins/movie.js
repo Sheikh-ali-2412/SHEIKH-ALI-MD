@@ -25,23 +25,23 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         }
 
         const movieInfo = `
-🎬 *Movie Information* 🎬
+🎬 *𝐌𝐨𝐯𝐢𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧* 🎬
 
-🎥 *Title:* ${data.Title}
-📅 *Year:* ${data.Year}
-🌟 *Rated:* ${data.Rated}
-📆 *Released:* ${data.Released}
-⏳ *Runtime:* ${data.Runtime}
-🎭 *Genre:* ${data.Genre}
-🎬 *Director:* ${data.Director}
-✍️ *Writer:* ${data.Writer}
-🎭 *Actors:* ${data.Actors}
-📝 *Plot:* ${data.Plot}
-🌍 *Language:* ${data.Language}
-🇺🇸 *Country:* ${data.Country}
-🏆 *Awards:* ${data.Awards}
-⭐ *IMDB Rating:* ${data.imdbRating}
-🗳️ *IMDB Votes:* ${data.imdbVotes}
+🎥 *ᴛɪᴛʟᴇ:* ${data.Title}
+📅 *ʏᴇᴀʀ:* ${data.Year}
+🌟 *ʀᴀᴛᴇᴅ:* ${data.Rated}
+📆 *ʀᴇʟᴇᴀsᴇᴅ:* ${data.Released}
+⏳ *ʀᴜɴᴛɪᴍᴇ:* ${data.Runtime}
+🎭 *ɢᴇɴʀᴇ:* ${data.Genre}
+🎬 *ᴅɪʀᴇᴄᴛᴏʀ:* ${data.Director}
+✍️ *ᴡʀɪᴛᴇʀ:* ${data.Writer}
+🎭 *ᴀᴄᴛᴏʀs:* ${data.Actors}
+📝 *ᴘʟᴏᴛ:* ${data.Plot}
+🌍 *ʟᴀɴɢᴜᴀɢᴇ:* ${data.Language}
+🇺🇸 *ᴄᴏᴜɴᴛʀʏ:* ${data.Country}
+🏆 *ᴀᴡᴀʀᴅs:* ${data.Awards}
+⭐ *ɪᴍᴅʙ ʀᴀᴛɪɴɢ:* ${data.imdbRating}
+🗳️ *ɪᴍᴅʙ ᴠᴏᴛᴇs:* ${data.imdbVotes}
 `;
 
         // Define the image URL

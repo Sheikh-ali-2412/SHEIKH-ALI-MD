@@ -17,16 +17,16 @@ async (conn, mek, m, { from, q, reply }) => {
         const response = await axios.get(url);
         const data = response.data;
         const weather = `
-> 🌍 *Weather Information for ${data.name}, ${data.sys.country}* 🌍
-> 🌡️ *Temperature*: ${data.main.temp}°C
-> 🌡️ *Feels Like*: ${data.main.feels_like}°C
-> 🌡️ *Min Temp*: ${data.main.temp_min}°C
-> 🌡️ *Max Temp*: ${data.main.temp_max}°C
-> 💧 *Humidity*: ${data.main.humidity}%
-> ☁️ *Weather*: ${data.weather[0].main}
-> 🌫️ *Description*: ${data.weather[0].description}
-> 💨 *Wind Speed*: ${data.wind.speed} m/s
-> 🔽 *Pressure*: ${data.main.pressure} hPa
+> 🌍 *𝐖𝐞𝐚𝐭𝐡𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 ${data.name}, ${data.sys.country}* 🌍
+> 🌡️ *ᴛᴇᴍᴘᴇʀᴀᴛᴜʀᴇ*: ${data.main.temp}°C
+> 🌡️ *ғᴇᴇʟs ʟɪᴋᴇ*: ${data.main.feels_like}°C
+> 🌡️ *ᴍɪɴ ᴛᴇᴍᴘ*: ${data.main.temp_min}°C
+> 🌡️ *ᴍᴀx ᴛᴇᴍᴘ*: ${data.main.temp_max}°C
+> 💧 *ʜᴜᴍɪᴅɪᴛʏ*: ${data.main.humidity}%
+> ☁️ *ᴡᴇᴀᴛʜᴇʀ*: ${data.weather[0].main}
+> 🌫️ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ*: ${data.weather[0].description}
+> 💨 *ᴡɪɴᴅ sᴘᴇᴇᴅ*: ${data.wind.speed} m/s
+> 🔽 *ᴘʀᴇssᴜʀᴇ*: ${data.main.pressure} hPa
 
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼*
 `;

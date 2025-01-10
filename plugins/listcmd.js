@@ -3,7 +3,7 @@ const { cmd, commands } = require('../command');
 
 cmd({
     pattern: "list",
-    alias: ["listcmd","commands"],
+    alias: ["sheikhlist","commands"],
     desc: "menu the bot",
     category: "menu",
     react: "⚡",
@@ -88,10 +88,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸📄 COMMAND: .ping
 ┃▸❕ Check bot speed
 ┃▸  
-┃▸📄 COMMAND: .menu
+┃▸📄 COMMAND: .sheikhmenu1
 ┃▸❕ Nero main menu
 ┃▸
-┃▸📄 COMMAND: .menu2
+┃▸📄 COMMAND: .sheikhmenu2
 ┃▸❕ Nero main menu2
 ┃▸ 
 ┃▸📄 COMMAND: .ai
@@ -247,7 +247,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸📄 COMMAND: .settings
 ┃▸❕ see bot settings
 ┃▸
-┃▸📄 COMMAND: .sheikh
+┃▸📄 COMMAND: .sheikh 
 ┃▸❕ get owner number 
 ┃▸
 ┃▸📄 COMMAND: .repo 
@@ -305,7 +305,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }

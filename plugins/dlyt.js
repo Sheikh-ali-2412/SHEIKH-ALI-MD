@@ -22,17 +22,17 @@ async (conn, mek, m, { from, prefix, quoted, q, reply, waitForReply }) => {
 
         let yts = yt.results[0];
 
-        let ytmsg = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+        let ytmsg = `╭━━━〔 *𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃* 〕━━━┈⊷
 ┃▸╭───────────
-┃▸┃๏ *VIDEO DOWNLOADER*
+┃▸┃๏ *𝐕𝐈𝐃𝐄𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑*
 ┃▸└───────────···๏
 ╰────────────────┈⊷
 ╭━━❐━⪼
-┇๏ *Title* -  ${yts.title}
-┇๏ *Duration* - ${yts.timestamp}
-┇๏ *Views* -  ${yts.views}
-┇๏ *Author* -  ${yts.author.name}
-┇๏ *Link* -  ${yts.url}
+┇๏ *𝐓𝐢𝐭𝐥𝐞* -  ${yts.title}
+┇๏ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧* - ${yts.timestamp}
+┇๏ *𝐕𝐢𝐞𝐰𝐬* -  ${yts.views}
+┇๏ *𝐀𝐮𝐭𝐡𝐨𝐫* -  ${yts.author.name}
+┇๏ *𝐋𝐢𝐧𝐤* -  ${yts.url}
 ╰━━❑━⪼`;
 
         // Send video details
@@ -46,7 +46,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply, waitForReply }) => {
         await conn.sendMessage(from, {
             video: { url: ytdl.download.url },
             mimetype: "video/mp4",
-            caption: `> *${yts.title}*\n> *Quality: ${quality}*\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ KʜᴀɴX-Aɪ ♡*`
+            caption: `> *${yts.title}*\n> *Quality: ${quality}*\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ ♡*`
         }, { quoted: mek });
     } catch (e) {
         console.log(e);
@@ -76,17 +76,17 @@ if(yt.results.length < 1) return reply("Results is not found !")
 let yts = yt.results[0]  
 const ytdl = await ytmp3(yts.url)
 		
-let ytmsg = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+let ytmsg = `╭━━━〔 *𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃* 〕━━━┈⊷
 ┃▸╭───────────
-┃▸┃๏ *MUSIC DOWNLOADER*
+┃▸┃๏ *𝐌𝐔𝐒𝐈𝐂 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑*
 ┃▸└───────────···๏
 ╰────────────────┈⊷
 ╭━━❐━⪼
-┇๏ *Tital* -  ${yts.title}
-┇๏ *Duration* - ${yts.timestamp}
-┇๏ *Views* -  ${yts.views}
-┇๏ *Author* -  ${yts.author.name} 
-┇๏ *Link* -  ${yts.url}
+┇๏ *𝐓𝐢𝐭𝐚𝐥* -  ${yts.title}
+┇๏ *𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧* - ${yts.timestamp}
+┇๏ *𝐕𝐢𝐞𝐰𝐬* -  ${yts.views}
+┇๏ *𝐀𝐮𝐭𝐡𝐨𝐫* -  ${yts.author.name} 
+┇๏ *𝐋𝐢𝐧𝐤* -  ${yts.url}
 ╰━━❑━⪼
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`
 // SEND DETAILS
@@ -96,7 +96,7 @@ await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' },
 await conn.sendMessage(from, { audio: { url: ytdl.download.url }, mimetype: "audio/mpeg" }, { quoted: mek })
 
 // SEND DOC TYPE
-await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*` }, { quoted: mek })
+await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ ♡*` }, { quoted: mek })
 
 
 } catch (e) {

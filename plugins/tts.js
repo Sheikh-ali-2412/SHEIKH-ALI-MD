@@ -24,13 +24,13 @@ async (conn, mek, m, { from, q, reply }) => {
         const response = await axios.get(url);
         const translation = response.data.responseData.translatedText;
 
-        const translationMessage = `> *SHEIKH-ALI-MD-TRANSLATION*
+        const translationMessage = `> *𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃-𝐓𝐑𝐀𝐍𝐒𝐋𝐀𝐓𝐈𝐎𝐍*
 
-> 🔤 *Original*: ${textToTranslate}
+> 🔤 *ᴏʀɪɢɪɴᴀʟ*: ${textToTranslate}
 
-> 🔠 *Translated*: ${translation}
+> 🔠 *ᴛʀᴀɴsʟᴀᴛᴇᴅ*: ${translation}
 
-> 🌐 *Language*: ${targetLang.toUpperCase()}`;
+> 🌐 *ʟᴀɴɢᴜᴀɢᴇ*: ${targetLang.toUpperCase()}`;
 
         return reply(translationMessage);
     } catch (e) {

@@ -30,12 +30,12 @@ async (conn, mek, m, { from }) => {
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
             image: { url: 'https://i.ibb.co/HKXv2X0/4611.jpg' }, // Image URL from your request
-            caption: `╭━━〔 *SHEIKH-ALI-MD* 〕━━┈⊷
+            caption: `╭━━〔 *𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• *Here is the owner details*
-┃◈┃• *Name* - ${ownerName}
-┃◈┃• *Number* ${ownerNumber}
-┃◈┃• *Version*: 2.0.0 Beta
+┃◈┃• *𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐨𝐰𝐧𝐞𝐫 𝐝𝐞𝐭𝐚𝐢𝐥𝐬*
+┃◈┃• *𝐍𝐚𝐦𝐞* - ${ownerName}
+┃◈┃• *𝐍𝐮𝐦𝐛𝐞𝐫* ${ownerNumber}
+┃◈┃• *𝐕𝐞𝐫𝐬𝐢𝐨𝐧*: 2.0.0 𝐁𝐞𝐭𝐚
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`, // Display the owner's details
@@ -45,7 +45,7 @@ async (conn, mek, m, { from }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363354023106228@newsletter',
-                    newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                    newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                     serverMessageId: 143
                 }            
             }

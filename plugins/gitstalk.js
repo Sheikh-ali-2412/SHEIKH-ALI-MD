@@ -19,14 +19,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        let userInfo = `👤 *Username*: ${data.name || data.login}
-🔗 *Github Url*:(${data.html_url})
-📝 *Bio*: ${data.bio || 'Not available'}
-🏙️ *Location*: ${data.location || 'Unknown'}
-📊 *Public Repos*: ${data.public_repos}
-👥 *Followers*: ${data.followers} | Following: ${data.following}
-📅 *Created At*: ${new Date(data.created_at).toDateString()}
-🔭 *Public Gists*: ${data.public_gists}
+        let userInfo = `👤 *𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞*: ${data.name || data.login}
+🔗 *𝐆𝐢𝐭𝐡𝐮𝐛 𝐔𝐫𝐥*:(${data.html_url})
+📝 *𝐁𝐢𝐨*: ${data.bio || 'Not available'}
+🏙️ *𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧*: ${data.location || 'Unknown'}
+📊 *𝐏𝐮𝐛𝐥𝐢𝐜 𝐑𝐞𝐩𝐨𝐬*: ${data.public_repos}
+👥 *𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬*: ${data.followers} | Following: ${data.following}
+📅 *𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐀𝐭*: ${new Date(data.created_at).toDateString()}
+🔭 *𝐏𝐮𝐛𝐥𝐢𝐜 𝐆𝐢𝐬𝐭𝐬*: ${data.public_gists}
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`;
           const sentMsg = await conn.sendMessage(from,{image:{url: data.avatar_url },caption: userInfo },{quoted:mek })
     } catch (e) {

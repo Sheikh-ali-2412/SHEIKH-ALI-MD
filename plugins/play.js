@@ -17,19 +17,19 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+let desc = `╭━━━〔 *𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃* 〕━━━┈⊷
 ┃▸╭───────────
-┃▸┃๏ *MUSIC DOWNLOADER*
+┃▸┃๏ *𝐌𝐔𝐒𝐈𝐂 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑*
 ┃▸└───────────···๏
 ╰────────────────┈⊷
-╭━❮ *Download Audio* ❯━┈⊷
+╭━❮ *𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐀𝐮𝐝𝐢𝐨* ❯━┈⊷
 ┃▸╭─────────────·๏
-┃▸┃๏ *Tital* - ${data.title}
-┃▸┃๏ *Views* - ${data.views}
-┃▸┃๏ *Description* - ${data.description}
-┃▸┃๏ *Duration:* ${data.timestamp}}
-┃▸┃๏ *Link* - ${data.url}
-┃▸┃๏ *Ago* - ${data.ago}
+┃▸┃๏ *ᴛɪᴛᴀʟ* - ${data.title}
+┃▸┃๏ *ᴠɪᴇᴡs* - ${data.views}
+┃▸┃๏ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ* - ${data.description}
+┃▸┃๏ *ᴅᴜʀᴀᴛɪᴏɴ:* ${data.timestamp}}
+┃▸┃๏ *ʟɪɴᴋ* - ${data.url}
+┃▸┃๏ *ᴀɢᴏ* - ${data.ago}
 ┃▸└────────────┈⊷
 ╰━━━━━━━━━━━━━━━⪼
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`
@@ -65,19 +65,19 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+let des = `╭━━━〔 *𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃* 〕━━━┈⊷
 ┃▸╭───────────
-┃▸┃๏ *VIDEO DOWNLOADER*
+┃▸┃๏ *𝐕𝐈𝐃𝐄𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑*
 ┃▸└───────────···๏
 ╰────────────────┈⊷
-╭━❮ *Download Audio* ❯━┈⊷
+╭━❮ *𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐀𝐮𝐝𝐢𝐨* ❯━┈⊷
 ┃▸╭─────────────·๏
-┃▸┃๏ *Tital* - ${data.title}
-┃▸┃๏ *Views* - ${data.views}
-┃▸┃๏ *Description* - ${data.description}
-┃▸┃๏ *Duration:* ${data.timestamp}}
-┃▸┃๏ *Link* - ${data.url}
-┃▸┃๏ *Ago* - ${data.ago}
+┃▸┃๏ *ᴛɪᴛᴀʟ* - ${data.title}
+┃▸┃๏ *ᴠɪᴇᴡs* - ${data.views}
+┃▸┃๏ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ* - ${data.description}
+┃▸┃๏ *ᴅᴜʀᴀᴛɪᴏɴ:* ${data.timestamp}}
+┃▸┃๏ *ʟɪɴᴋ* - ${data.url}
+┃▸┃๏ *ᴀɢᴏ* - ${data.ago}
 ┃▸└────────────┈⊷
 ╰━━━━━━━━━━━━━━━⪼
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`

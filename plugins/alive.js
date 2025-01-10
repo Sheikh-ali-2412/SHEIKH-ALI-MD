@@ -13,13 +13,13 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `╭━━〔 *SHEIKH-ALI-MD* 〕━━┈⊷
+        const status = `╭━━〔 *𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• *⏳Uptime*:  ${runtime(process.uptime())} 
-┃◈┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
-┃◈┃• *⚙️ HostName*: ${os.hostname()}
-┃◈┃• *👨‍💻 Owner*: 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
-┃◈┃• *🧬 Version*: 3.0.0 BETA
+┃◈┃• *⏳𝐔𝐩𝐭𝐢𝐦𝐞*:  ${runtime(process.uptime())} 
+┃◈┃• *📟 𝐑𝐚𝐦 𝐮𝐬𝐚𝐠𝐞*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}𝐌𝐁 / ${(os.totalmem() / 1024 / 1024).toFixed(2)}𝐌𝐁
+┃◈┃• *⚙️ 𝐇𝐨𝐬𝐭𝐍𝐚𝐦𝐞*: ${os.hostname()}
+┃◈┃• *👨‍💻 𝐎𝐰𝐧𝐞𝐫*: 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼
+┃◈┃• *🧬 𝐕𝐞𝐫𝐬𝐢𝐨𝐧*: 3.0.0 𝐁𝐄𝐓𝐀
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`;
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363354023106228@newsletter',
-                    newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                    newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                     serverMessageId: 143
                 }
             }

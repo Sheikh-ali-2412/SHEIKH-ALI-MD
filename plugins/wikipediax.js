@@ -21,15 +21,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         
         // Format the reply
         let replyText = `
-*📚 Wikipedia Summary 📚*
+*📚 𝐖𝐢𝐤𝐢𝐩𝐞𝐝𝐢𝐚 𝐒𝐮𝐦𝐦𝐚𝐫𝐲 📚*
 
-🔍 *Query*: _${q}_
+🔍 *ǫᴜᴇʀʏ*: _${q}_
 
-💬 *Title*: _${summary.title}_
+💬 *ᴛɪᴛʟᴇ*: _${summary.title}_
 
-📝 *Summary*: _${summary.extract}_
+📝 *sᴜᴍᴍᴀʀʏ*: _${summary.extract}_
 
-🔗 *URL*: ${summary.content_urls.desktop.page}
+🔗 *ᴜʀʟ*: ${summary.content_urls.desktop.page}
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ `;
 

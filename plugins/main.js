@@ -5,8 +5,8 @@ const {runtime} = require('../lib/functions')
 const axios = require('axios')
 
 cmd({
-    pattern: "menu2",
-    alias: "allmenu",
+    pattern: "sheikhmenu2",
+    alias: "sheikhall",
     desc: "menu the bot",
     category: "menu",
     react: "⚡",
@@ -21,7 +21,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃★│ Type : *NodeJs*
 ┃★│ Platform : *Heroku*
 ┃★│ Mode : *[${config.MODE}]*
-┃★│ Prifix : *[${config.PREFIX}]*
+┃★│ Prefix : *[${config.PREFIX}]*
 ┃★│ Version : *3.0.0 Bᴇᴛᴀ*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
@@ -95,13 +95,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╭━━〔 *Owner Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sheikh
-┃◈┃• menu
-┃◈┃• menu2
-┃◈┃• vv
-┃◈┃• listcmd
-┃◈┃• allmenu
-┃◈┃• repo
+┃◈┃• sheikhmenu1
+┃◈┃• sheikhmenu2
 ┃◈┃• about
+┃◈┃• vv
+┃◈┃• sheikhlist
+┃◈┃• sheikhall
+┃◈┃• repo
 ┃◈┃• block
 ┃◈┃• unblock
 ┃◈┃• fullpp
@@ -174,8 +174,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• uptime 
 ┃◈┃• repo
 ┃◈┃• sheikh
-┃◈┃• menu
-┃◈┃• menu2
+┃◈┃• sheikhmenu1
+┃◈┃• sheikhmenu2
+┃◈┃• about
 ┃◈┃• restart
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
@@ -186,7 +187,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• dare
 ┃◈┃• dog
 ┃◈┃• awoo
-┃◈┃• girl
+┃◈┃• garl
 ┃◈┃• waifu
 ┃◈┃• neko
 ┃◈┃• megnumin
@@ -225,7 +226,6 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• movie
 ┃◈┃• weather
 ┃◈┃• srepo
-┃◈┃• about
 ┃◈┃• insult
 ┃◈┃• save
 ┃◈┃• wikipedia
@@ -248,7 +248,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }

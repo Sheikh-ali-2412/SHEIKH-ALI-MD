@@ -5,7 +5,7 @@ const { runtime } = require('../lib/functions');
 const axios = require('axios');
 
 cmd({
-    pattern: "menu",
+    pattern: "sheikhmenu1",
     desc: "menu the bot",
     category: "menu",
     react: "⚡",
@@ -20,21 +20,21 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃★│ Type : *NodeJs*
 ┃★│ Platform : *Heroku*
 ┃★│ Mode : *[${config.MODE}]*
-┃★│ Prifix : *[${config.PREFIX}]*
+┃★│ Prefix : *[${config.PREFIX}]*
 ┃★│ Version : *3.0.0 Bᴇᴛᴀ*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 ╭━━〔 *Menu List* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• aimenu
-┃◈┃• anmiemenu
+┃◈┃• animemenu
 ┃◈┃• convertmenu
 ┃◈┃• funmenu
 ┃◈┃• dlmenu
-┃◈┃• listcmd
+┃◈┃• sheikhlist
 ┃◈┃• mainmenu
 ┃◈┃• groupmenu
-┃◈┃• allmenu
+┃◈┃• sheikhall
 ┃◈┃• ownermenu
 ┃◈┃• othermenu
 ┃◈┃• logo <text>
@@ -54,7 +54,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }
@@ -128,7 +128,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }
@@ -206,7 +206,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }
@@ -271,7 +271,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }
@@ -308,7 +308,6 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• movie
 ┃◈┃• weather
 ┃◈┃• srepo
-┃◈┃• about
 ┃◈┃• insult
 ┃◈┃• save
 ┃◈┃• wikipedia
@@ -331,7 +330,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }
@@ -365,8 +364,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• uptime 
 ┃◈┃• repo
 ┃◈┃• sheikh
-┃◈┃• menu
-┃◈┃• menu2
+┃◈┃• sheikhmenu1
+┃◈┃• sheikhmenu2
+┃◈┃• about
 ┃◈┃• restart
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
@@ -383,7 +383,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }
@@ -411,12 +411,12 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         let dec = `╭━━〔 *Owner Menu* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sheikh
-┃◈┃• menu
-┃◈┃• menu2
-┃◈┃• listcmd
-┃◈┃• allmenu
-┃◈┃• repo
+┃◈┃• sheikhmenu1
+┃◈┃• sheikhmenu2
 ┃◈┃• about
+┃◈┃• sheikhlist
+┃◈┃• sheikhall
+┃◈┃• repo
 ┃◈┃• block
 ┃◈┃• unblock
 ┃◈┃• fullpp
@@ -443,7 +443,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }
@@ -492,7 +492,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }
@@ -561,7 +561,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }
@@ -611,7 +611,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                         serverMessageId: 143
                     }
                 }

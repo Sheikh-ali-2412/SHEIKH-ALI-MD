@@ -9,7 +9,7 @@ var cants = "I cant find this anime."
 
 //====================================================================================
 cmd({
-    pattern: "girl",
+    pattern: "garl",
     alias: ["imgloli"],
     react: '😎',
     desc: "Download anime loli images.",
@@ -21,9 +21,9 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sen
 try{
 
 let res = await axios.get('https://api.lolicon.app/setu/v2?num=1&r18=0&tag=lolicon')
-let wm = `😎 Random Girl image
+let wm = `😎 Random Garl image
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
 await conn.sendMessage(from, { image: { url: res.data.data[0].urls.original }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -46,7 +46,7 @@ try{
 let res = await axios.get('https://api.waifu.pics/sfw/waifu')
 let wm = `🩵 Random Waifu image
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -69,7 +69,7 @@ try{
 let res = await axios.get('https://api.waifu.pics/sfw/neko')
 let wm = `🩷 Random neko image
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
 await conn.sendMessage(from, { image: { url: res.data.url  }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -92,7 +92,7 @@ try{
 let res = await axios.get('https://api.waifu.pics/sfw/megumin')
 let wm = `❤️‍🔥Random megumin image
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -115,7 +115,7 @@ try{
 let res = await axios.get('https://api.waifu.im/search/?included_tags=maid')
 let wm = `😎 Random maid image
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
 await conn.sendMessage(from, { image: { url: res.data.images[0].url  }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -138,7 +138,7 @@ try{
 let res = await axios.get('https://api.waifu.pics/sfw/awoo')
 let wm = `😎 Random awoo image
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -199,7 +199,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: 'ANIME GIRL IMAGE 👾\n\n\n > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼X' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: 'ANIME GIRL IMAGE 👾\n\n\n > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`*Error Fetching Anime Girl image*: ${e.message}`);

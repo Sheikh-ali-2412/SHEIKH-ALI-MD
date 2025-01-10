@@ -21,14 +21,14 @@ async (conn, mek, m, { from, quoted, reply }) => {
 
         // Send the ping result
         await conn.sendMessage(from, { 
-            text: `*⚡ SHEIKH-ALI-MD SPEED: ${ping}ms*`, 
+            text: `*⚡SHEIKH-ALI-MD SPEED: ${ping}ms*`, 
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363354023106228@newsletter',
-                    newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶',
+                    newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼',
                     serverMessageId: 143
                 }
             }

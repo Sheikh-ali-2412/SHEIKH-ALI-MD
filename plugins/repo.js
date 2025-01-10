@@ -14,7 +14,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let dec = `*𝐇𝐞𝐥𝐥𝐨 𝐝𝐞𝐚𝐫 𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃 𝐔𝐬𝐞𝐫! 👋🏻* 
 
-> sɪᴍᴘʟᴇ , sᴛʀᴀɪɢʜᴛ ғᴏʀᴡᴀʀᴅ ʙᴜᴛ ʟᴏᴀᴅᴇᴅ ᴡɪᴛʜ ғᴇᴀᴛᴜʀᴇs 🎊, ᴍᴇᴇᴛ sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ.
+> sɪᴍᴘʟᴇ , sᴛʀᴀɪɢʜᴛ ғᴏʀᴡᴀʀᴅ ʙᴜᴛ ʟᴏᴀᴅᴇᴅ Wi*th ғᴇᴀᴛ-ᴜʀᴇs 🎊, ᴍᴇᴇ-ᴛ sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ.
 
 *𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐮𝐬𝐢𝐧𝐠 𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃 🚩* 
 
@@ -32,7 +32,7 @@ https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD`;
                 isForwarded: true, 
                 forwardedNewsletterMessageInfo: { 
                     newsletterJid: '120363354023106228@newsletter', 
-                    newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶', 
+                    newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼', 
                     serverMessageId: 143 
                 } 
             } 
@@ -49,7 +49,7 @@ https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD`;
                 isForwarded: true, 
                 forwardedNewsletterMessageInfo: { 
                     newsletterJid: '120363354023106228@newsletter', 
-                    newsletterName: '𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶', 
+                    newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼', 
                     serverMessageId: 143 
                 } 
             }

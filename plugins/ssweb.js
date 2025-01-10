@@ -1,4 +1,4 @@
-// code by ⿻ ⌜ 𝐊𝐇𝐀𝐍 ⌟⿻⃮͛🇵🇰𖤐
+// code by ⿻ ⌜ 𝐒𝐇𝐄𝐈𝐊𝐇 ⌟⿻⃮͛🇵🇰𖤐
 
 const axios = require("axios");
 const config = require('../config');
@@ -38,7 +38,7 @@ async (conn, mek, m, {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363354023106228@newsletter',
-          newsletterName: "𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶",
+          newsletterName: "𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼",
           serverMessageId: 143,
         },
       },
@@ -51,4 +51,4 @@ async (conn, mek, m, {
   }
 });
 
-// ⿻ ⌜ 𝑺𝑯𝑬𝑰𝑲𝑯 ⌟⿻⃮͛🇵🇰𖤐
+// ⿻ ⌜ 𝐒𝐇𝐄𝐈𝐊𝐇 ⌟⿻⃮͛🇵🇰𖤐

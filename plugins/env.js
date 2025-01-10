@@ -19,27 +19,27 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+        let envSettings = `╭━━━〔 *𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃* 〕━━━┈⊷
 ┃▸╭───────────
-┃▸┃๏ *ENV SETTINGS 🗿*
+┃▸┃๏ *𝐄𝐍𝐕 𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒 🗿*
 ┃▸└───────────···๏
 ╰────────────────┈⊷
-╭━━〔 *Enabled Disabled* 〕━━┈⊷
-┇๏ *Auto Read Status:* ${isEnabled(config.AUTO_STATUS_SEEN) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Auto Reply Status:* ${isEnabled(config.AUTO_STATUS_REPLY) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Auto Reply:* ${isEnabled(config.AUTO_REPLY) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Auto Sticker:* ${isEnabled(config.AUTO_STICKER) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Auto Voice:* ${isEnabled(config.AUTO_VOICE) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Custom Reacts:* ${isEnabled(config.CUSTOM_REACT) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Auto React:* ${isEnabled(config.AUTO_REACT) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Delete Links:* ${isEnabled(config.DELETE_LINKS) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Anti-Link:* ${isEnabled(config.ANTI_LINK) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Anti-Bad Words:* ${isEnabled(config.ANTI_BAD) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Auto Typing:* ${isEnabled(config.AUTO_TYPING) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Auto Recording:* ${isEnabled(config.AUTO_RECORDING) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Always Online:* ${isEnabled(config.ALWAYS_ONLINE) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Public Mode:* ${isEnabled(config.PUBLIC_MODE) ? "Enabled ✅" : "Disabled ❌"}
-┇๏ *Read Message:* ${isEnabled(config.READ_MESSAGE) ? "Enabled ✅" : "Disabled ❌"}
+╭━━〔 *𝐄𝐧𝐚𝐛𝐥𝐞𝐝 𝐃𝐢𝐬𝐚𝐛𝐥𝐞𝐝* 〕━━┈⊷
+┇๏ *ᴀᴜᴛᴏ ʀᴇᴀᴅ sᴛᴀᴛᴜs:* ${isEnabled(config.AUTO_STATUS_SEEN) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "Disa-bled ❌"}
+┇๏ *ᴀᴜᴛᴏ ʀᴇᴘʟʏ sᴛᴀᴛᴜs:* ${isEnabled(config.AUTO_STATUS_REPLY) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴀᴜᴛᴏ ʀᴇᴘʟʏ:* ${isEnabled(config.AUTO_REPLY) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴀᴜᴛᴏ sᴛɪᴄᴋᴇʀ:* ${isEnabled(config.AUTO_STICKER) ? "Enabled ✅" : "Disabled ❌"}
+┇๏ *ᴀᴜᴛᴏ ᴠᴏɪᴄᴇ:* ${isEnabled(config.AUTO_VOICE) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴄᴜsᴛᴏᴍ ʀᴇᴀᴄᴛs:* ${isEnabled(config.CUSTOM_REACT) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴀᴜᴛᴏ ʀᴇᴀᴄᴛ:* ${isEnabled(config.AUTO_REACT) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴅᴇʟᴇᴛᴇ ʟɪɴᴋs:* ${isEnabled(config.DELETE_LINKS) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴀɴᴛɪ-ʟɪɴᴋ:* ${isEnabled(config.ANTI_LINK) ? "Enabled ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴀɴᴛɪ-ʙᴀᴅ ᴡᴏʀᴅs:* ${isEnabled(config.ANTI_BAD) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *Auto Typing:* ${isEnabled(config.AUTO_TYPING) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *Auto Recording:* ${isEnabled(config.AUTO_RECORDING) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴀʟᴡᴀʏs ᴏɴʟɪɴᴇ:* ${isEnabled(config.ALWAYS_ONLINE) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ᴘᴜʙʟɪᴄ ᴍᴏᴅᴇ:* ${isEnabled(config.PUBLIC_MODE) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
+┇๏ *ʀᴇᴀᴅ ᴍᴇssᴀɢᴇ:* ${isEnabled(config.READ_MESSAGE) ? "ᴇɴᴀʙʟᴇᴅ ✅" : "ᴅɪsᴀʙʟᴇᴅ ❌"}
 ╰━━━━━━━━━━━━──┈⊷
 > ${config.DESCRIPTION}`;
 
@@ -55,7 +55,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: "JawadTechX",
+                        newsletterName: "𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼",
                         serverMessageId: 143
                     }
                 }
