@@ -1,6 +1,6 @@
 {
   "name": "SHEIKH-ALI-MD",
-  "description": "Javascript WhatsApp bot made by 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃",
+  "description": "Javascript WhatsApp bot made by 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶",
   "logo": "https://i.ibb.co/HKXv2X0/4611.jpg",
   "keywords": ["sheikh-ali-md"],
   "success_url": "/",
@@ -11,7 +11,7 @@
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
-    },  
+    },
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
@@ -48,7 +48,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
@@ -107,13 +107,13 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼*"
+      "value": "*> © Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*"
     },
 
       "DELETE_LINKS": {
@@ -125,7 +125,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
@@ -143,7 +143,7 @@
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
       "required": false,
-      "value": "false"
+      "value": "true"
       
     }, 
     
