@@ -50,7 +50,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 ![stars](https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-MD?style=social)
 
 
-[![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-white)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/fork)
+[![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-FF00F8)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/fork)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑+𝐒𝐔𝐏𝐏𝐎𝐑𝐓)](https://git.io/typing-svg)
