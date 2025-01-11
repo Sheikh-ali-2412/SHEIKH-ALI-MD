@@ -15,7 +15,7 @@
 src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/k9F88tw/6383.jpg?v=4&backgroundColor=%23ecf0f1&github=Sheikh-ali-2412&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ...;ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+ᴀʟɪ+ᴀʜᴍᴀᴅ+ғᴀʀᴏᴏǫ...;ᴡᴏʀʟᴅ+ʙᴇsᴛ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ...;sɪᴍᴘʟᴇ+ᴊᴀᴠᴀ+sᴄʀɪᴘᴛ+ʙᴏᴛ...;sɪᴍᴘʟᴇ+ᴀɴᴅ+ғᴀsᴛ+ᴅᴇᴘʟᴏʏ...;ᴛʜᴀɴᴋs+ʏᴏᴜ+ғᴏʀ+ᴜsɪɴɢ+sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐...;𝐖𝐎𝐑𝐋𝐃ᴅ+𝐁𝐄𝐒𝐓+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐉𝐀𝐕𝐀+𝐒𝐂𝐑𝐈𝐏𝐓+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐀𝐍𝐃+𝐅𝐀𝐒𝐓+𝐃𝐄𝐏𝐋𝐎𝐘...;𝐓𝐇𝐀𝐍𝐊𝐒+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐔𝐒𝐈𝐍𝐆+𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃..."
 
 <br>
 
@@ -90,7 +90,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+ᴀʟɪ+ᴀʜᴍᴀᴅ+ғᴀʀᴏᴏǫ" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐋𝐈-𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐" alt="">
 <hr>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
