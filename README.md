@@ -53,7 +53,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 [![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-FF00F8)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/fork)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑+𝐒𝐔𝐏𝐏𝐎𝐑𝐓)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐂𝐎𝐍𝐓𝐀𝐂𝐓+𝐌𝐄𝐅𝐎𝐑+𝐇𝐄𝐋𝐏)](https://git.io/typing-svg)
 
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME VIA WHATSAPP ITS ME 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
 
