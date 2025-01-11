@@ -90,7 +90,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐋𝐈-𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐" alt="">
 <hr>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
