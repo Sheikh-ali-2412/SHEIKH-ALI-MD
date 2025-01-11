@@ -55,7 +55,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑+𝐒𝐔𝐏𝐏𝐎𝐑𝐓)](https://git.io/typing-svg)
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME VIA WHATSAPP ITS ME 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
 
 [![https://telegram.me/Sheikh_ali_ahmad_24](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄᴏɴᴛᴀᴄᴛ-green.svg?style=flat-square)](https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝑺𝑯𝑬𝑰𝑲𝑯-𝑨𝑳𝑰🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ_ᴀʟɪ+ʀᴇᴘᴏ!!*)
 
@@ -74,7 +74,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)](https://git.io/typing-svg)
 
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92314XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT. CLICK ON SESSION_ID BUTTON AND ENTER YOUR NUMBER WITH COUNTRY CODE EXAMPLE:+92314370XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 <p align="left">
 <a href='https://sheikh-ali-md-pair.onrender.com' target="_blank">
@@ -86,7 +86,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
-`✠ IF YOU WANT TO DEPLOY SHEIKH-ALI-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY SHEIKH-ALI-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [HEROKU DEPLOY] THEN YOU CAN ENJOY THIS BOT ✠`
 
 <p align="left">
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-6971FF?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
