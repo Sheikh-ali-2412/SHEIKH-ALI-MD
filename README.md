@@ -41,16 +41,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐀𝐍𝐃+𝐒𝐓𝐀𝐑+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikh-ali-2412%2FSHEIKH-ALI-AHMAD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
-
-
-![forks](https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-MD?label=Forks&style=social)
-
-
-![stars](https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-MD?style=social)
-
-
-[![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-FF00F8)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/fork)
+![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-FF00F8)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/fork)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐂𝐎𝐍𝐓𝐀𝐂𝐓+𝐌𝐄+𝐅𝐎𝐑+𝐇𝐄𝐋𝐏)](https://git.io/typing-svg)
