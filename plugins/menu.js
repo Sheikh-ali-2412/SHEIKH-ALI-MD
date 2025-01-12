@@ -37,8 +37,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• sheikhall
 ┃◈┃• sheikhowner
 ┃◈┃• sheikhother
-┃◈┃• sheikhlogo <text>
 ┃◈┃• sheikhrepo
+┃◈┃• logo <text>
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
