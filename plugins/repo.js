@@ -3,7 +3,7 @@ const config = require('../config');
 
 // repo info
 cmd({
-    pattern: "repo",
+    pattern: "sheikhrepo",
     alias: ["sc", "script", "info"],
     desc: "Info about the bot repository",
     category: "main",
