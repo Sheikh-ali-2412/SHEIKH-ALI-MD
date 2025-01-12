@@ -27,18 +27,18 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╭━━〔 *Sheikh List* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sheikhai
-┃◈┃• sheikh anime
-┃◈┃• sheikh convert
-┃◈┃• sheikh fun
-┃◈┃• sheikh download
-┃◈┃• sheikh sheikhlist
-┃◈┃• sheikh main
-┃◈┃• sheikh group
-┃◈┃• sheikh 1all
-┃◈┃• sheikh owner
-┃◈┃• sheikh other
-┃◈┃• sheikh logo <text>
-┃◈┃• sheikh repo
+┃◈┃• sheikhanime
+┃◈┃• sheikhconvert
+┃◈┃• sheikhfun
+┃◈┃• sheikhdownload
+┃◈┃• sheikhsheikhlist
+┃◈┃• sheikhmain
+┃◈┃• sheikhgroup
+┃◈┃• sheikhall
+┃◈┃• sheikhowner
+┃◈┃• sheikhother
+┃◈┃• sheikhlogo <text>
+┃◈┃• sheikhrepo
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -79,7 +79,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 // sheikh download 
 
 cmd({
-    pattern: "sheikh download",
+    pattern: "sheikhdownload",
     desc: "menu the bot",
     category: "menu",
     react: "⤵️",
@@ -145,7 +145,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 // sheikh group
 
 cmd({
-    pattern: "sheikh group",
+    pattern: "sheikhgroup",
     desc: "menu the bot",
     category: "menu",
     react: "⤵️",
@@ -223,7 +223,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 // sheikh fun
 
 cmd({
-    pattern: "sheikh fun",
+    pattern: "sheikhfun",
     desc: "menu the bot",
     category: "menu",
     react: "😎",
@@ -288,7 +288,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 // sheikh other
 
 cmd({
-    pattern: "sheikh other",
+    pattern: "sheikhother",
     desc: "menu the bot",
     category: "menu",
     react: "🤖",
@@ -347,7 +347,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 // sheikh main
 
 cmd({
-    pattern: "sheikh main",
+    pattern: "sheikhmain",
     desc: "menu the bot",
     category: "menu",
     react: "🗿",
@@ -400,7 +400,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 // sheikh owner
 
 cmd({
-    pattern: "sheikh owner",
+    pattern: "sheikhowner",
     desc: "menu the bot",
     category: "menu",
     react: "🔰",
@@ -460,7 +460,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 // sheikh convert
 
 cmd({
-    pattern: "sheikh convert",
+    pattern: "sheikhconvert",
     desc: "menu the bot",
     category: "menu",
     react: "🥀",
@@ -510,7 +510,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 // sheikh anime 
 
 cmd({
-    pattern: "sheikh anime",
+    pattern: "sheikhanime",
     desc: "menu the bot",
     category: "menu",
     react: "🧚",
@@ -579,7 +579,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 // sheikh ai 
 
 cmd({
-    pattern: "sheikh ai",
+    pattern: "sheikhai",
     desc: "menu the bot",
     category: "menu",
     react: "🤖",
