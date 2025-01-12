@@ -24,21 +24,21 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃★│ Version : *3.0.0 Bᴇᴛᴀ*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-╭━━〔 *Menu List* 〕━━┈⊷
+╭━━〔 *Sheikh List* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• aimenu
-┃◈┃• animemenu
-┃◈┃• convertmenu
-┃◈┃• funmenu
-┃◈┃• dlmenu
-┃◈┃• sheikhlist
-┃◈┃• mainmenu
-┃◈┃• groupmenu
-┃◈┃• sheikhall
-┃◈┃• ownermenu
-┃◈┃• othermenu
-┃◈┃• logo <text>
-┃◈┃• repo
+┃◈┃• sheikhai
+┃◈┃• sheikh anime
+┃◈┃• sheikh convert
+┃◈┃• sheikh fun
+┃◈┃• sheikh download
+┃◈┃• sheikh sheikhlist
+┃◈┃• sheikh main
+┃◈┃• sheikh group
+┃◈┃• sheikh 1all
+┃◈┃• sheikh owner
+┃◈┃• sheikh other
+┃◈┃• sheikh logo <text>
+┃◈┃• sheikh repo
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
@@ -76,10 +76,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 });
 
 
-// dlmenu
+// sheikh download 
 
 cmd({
-    pattern: "dlmenu",
+    pattern: "sheikh download",
     desc: "menu the bot",
     category: "menu",
     react: "⤵️",
@@ -87,7 +87,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Download Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Sheikh Download* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• facebook
 ┃◈┃• mediafire
@@ -142,10 +142,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     }
 });
 
-// group menu
+// sheikh group
 
 cmd({
-    pattern: "groupmenu",
+    pattern: "sheikh group",
     desc: "menu the bot",
     category: "menu",
     react: "⤵️",
@@ -154,7 +154,7 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try
        {
-        let dec = `╭━━〔 *Group Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Sheikh Group* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• grouplink
 ┃◈┃• kickall
@@ -220,10 +220,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     }
 });
 
-// fun menu
+// sheikh fun
 
 cmd({
-    pattern: "funmenu",
+    pattern: "sheikh fun",
     desc: "menu the bot",
     category: "menu",
     react: "😎",
@@ -232,7 +232,7 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
 
-        let dec = `╭━━〔 *Fun Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Sheikh Fun* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• insult
 ┃◈┃• pickup
@@ -285,10 +285,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     }
 });
 
-// other menu
+// sheikh other
 
 cmd({
-    pattern: "othermenu",
+    pattern: "sheikh other",
     desc: "menu the bot",
     category: "menu",
     react: "🤖",
@@ -296,7 +296,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Other Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Sheikh Other* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• vv
 ┃◈┃• pair
@@ -344,10 +344,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     }
 });
 
-// main menu
+// sheikh main
 
 cmd({
-    pattern: "mainmenu",
+    pattern: "sheikh main",
     desc: "menu the bot",
     category: "menu",
     react: "🗿",
@@ -355,7 +355,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Main Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Sheikh Main* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• ping
 ┃◈┃• live 
@@ -397,10 +397,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     }
 });
 
-// owner menu
+// sheikh owner
 
 cmd({
-    pattern: "ownermenu",
+    pattern: "sheikh owner",
     desc: "menu the bot",
     category: "menu",
     react: "🔰",
@@ -408,7 +408,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Owner Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Sheikh Owner* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sheikh
 ┃◈┃• sheikhmenu1
@@ -457,10 +457,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     }
 });
 
-// convert menu
+// sheikh convert
 
 cmd({
-    pattern: "convertmenu",
+    pattern: "sheikh convert",
     desc: "menu the bot",
     category: "menu",
     react: "🥀",
@@ -468,7 +468,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Convert Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Sheikh Convert* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sticker
 ┃◈┃• sticker2
@@ -507,10 +507,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 });
 
 
-// anmie menu 
+// sheikh anime 
 
 cmd({
-    pattern: "animemenu",
+    pattern: "sheikh anime",
     desc: "menu the bot",
     category: "menu",
     react: "🧚",
@@ -518,7 +518,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-          let dec = `╭━━〔 *Anime Menu* 〕━━┈⊷
+          let dec = `╭━━〔 *Sheikh Anime* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• fack
 ┃◈┃• dog
@@ -576,10 +576,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 });
 
 
-// ai menu 
+// sheikh ai 
 
 cmd({
-    pattern: "aimenu",
+    pattern: "sheikh ai",
     desc: "menu the bot",
     category: "menu",
     react: "🤖",
@@ -587,7 +587,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 *Ai Menu* 〕━━┈⊷
+        let dec = `╭━━〔 *Sheikh Ai* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• ai
 ┃◈┃• gpt

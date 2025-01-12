@@ -25,7 +25,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃★│ Version : *3.0.0 Bᴇᴛᴀ*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
-╭━━〔 *Download Menu* 〕━━┈⊷
+╭━━〔 *Sheikh Download* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• facebook
 ┃◈┃• mediafire
@@ -53,7 +53,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• ginisilia 
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Group Menu* 〕━━┈⊷
+╭━━〔 *Sheikh Group* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• grouplink
 ┃◈┃• kickall
@@ -92,7 +92,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• tagadmins
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Owner Menu* 〕━━┈⊷
+╭━━〔 *Sheikh Owner* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sheikh
 ┃◈┃• sheikhmenu1
@@ -115,7 +115,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• jid
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Fun Menu* 〕━━┈⊷
+╭━━〔 *Sheikh Fun* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• insult
 ┃◈┃• hack
@@ -141,7 +141,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• poke
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Convert Menu* 〕━━┈⊷
+╭━━〔 *Sheikh Convert* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sticker
 ┃◈┃• sticker2
@@ -152,7 +152,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• trt
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Ai Menu* 〕━━┈⊷
+╭━━〔 *Sheikh Ai* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• ai
 ┃◈┃• gpt
@@ -163,7 +163,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• copilot
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Main Menu* 〕━━┈⊷
+╭━━〔 *Sheikh Main* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• ping
 ┃◈┃• ping2
@@ -180,7 +180,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• restart
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Anime Menu* 〕━━┈⊷
+╭━━〔 *Sheikh Anime* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• fack
 ┃◈┃• truth
@@ -212,7 +212,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• naruto
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-╭━━〔 *Other Menu* 〕━━┈⊷
+╭━━〔 *Sheikh Other* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• fact
 ┃◈┃• cpp
