@@ -27,18 +27,18 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╭━━〔 *Sheikh List* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• sheikhai
-┃◈┃• sheikh anime
-┃◈┃• sheikh convert
-┃◈┃• sheikh fun
-┃◈┃• sheikh download
-┃◈┃• sheikh sheikhlist
-┃◈┃• sheikh main
-┃◈┃• sheikh group
-┃◈┃• sheikh 1all
-┃◈┃• sheikh owner
-┃◈┃• sheikh other
-┃◈┃• sheikh logo <text>
-┃◈┃• sheikh repo
+┃◈┃• sheikhanime
+┃◈┃• sheikhconvert
+┃◈┃• sheikhfun
+┃◈┃• sheikhdownload
+┃◈┃• sheikhlist
+┃◈┃• sheikhmain
+┃◈┃• sheikhgroup
+┃◈┃• sheikhall
+┃◈┃• sheikhowner
+┃◈┃• sheikhother
+┃◈┃• sheikhrepo
+┃◈┃• logo <text>
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
