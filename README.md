@@ -12,7 +12,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/k9F88tw/6383.jpg?v=4&backgroundColor=%23ecf0f1&github=Sheikh-ali-2412&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/YdSKMhv/6767.jpg?v=4&backgroundColor=%23ecf0f1&github=Sheikh-ali-2412&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐...;𝐖𝐎𝐑𝐋𝐃+𝐁𝐄𝐒𝐓+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐉𝐀𝐕𝐀+𝐒𝐂𝐑𝐈𝐏𝐓+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐀𝐍𝐃+𝐅𝐀𝐒𝐓+𝐃𝐄𝐏𝐋𝐎𝐘...;𝐓𝐇𝐀𝐍𝐊𝐒+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐔𝐒𝐈𝐍𝐆+𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃..."
@@ -125,7 +125,7 @@ jobs:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=blue&lines=𝐎𝐖𝐍𝐄𝐑+:+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐)](https://git.io/typing-svg)              
 |--------------------------------|
-| [![ALI AHMAD](https://i.ibb.co/k9F88tw/6383.jpg)](https://github.com/sadiyamin/Alexa/) | [![ALI AHMAD](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD)
+| [![ALI AHMAD](https://i.ibb.co/YdSKMhv/6767.jpg)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD) | [![ALI AHMAD](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ***⚠️THANKS FOR USING SHEIKH-ALI-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH-ALI-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANK YOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 𝑴𝑫🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
