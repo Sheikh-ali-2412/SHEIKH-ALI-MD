@@ -71,7 +71,7 @@ href="https://youtube.com/@sheikh-ali-2412?si=0WslRm5BX7pUymxX" target="_blank">
 
 <p align="left">
 <a href='https://sheikh-ali-md-pair.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkblue?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
 
