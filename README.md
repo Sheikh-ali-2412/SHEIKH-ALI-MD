@@ -55,10 +55,17 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <div align="left">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-darkgreen?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
+[![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+<div style="text-align: center;">
+    <a
+href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
+    <img src="https://img.shields.io/badge/follow-YouTube Channel-FF0000?style=for-the-badge" alt="YouTube Channel">
+</a>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)](https://git.io/typing-svg)
 
