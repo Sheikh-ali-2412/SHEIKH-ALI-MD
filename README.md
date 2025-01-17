@@ -51,12 +51,14 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐉𝐎𝐈𝐍+𝐎𝐔𝐑+𝐂𝐇𝐀𝐍𝐍𝐄𝐋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐋𝐋𝐎𝐖+𝐎𝐔𝐑+𝐂𝐇𝐀𝐍𝐍𝐄𝐋)](https://git.io/typing-svg)
 
 <div align="left">
   
 [![WhatsApp Channel](https://img.shields.io/badge/Follow-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄+𝐎𝐔𝐑+𝐂𝐇𝐀𝐍𝐍𝐄𝐋)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
