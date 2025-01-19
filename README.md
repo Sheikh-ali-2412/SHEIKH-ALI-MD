@@ -72,12 +72,6 @@ href="https://youtube.com/@sheikh-ali-2412?si=0WslRm5BX7pUymxX" target="_blank">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃+𝐒𝐈𝐓𝐄+𝐈𝐒+𝐇𝐄𝐑𝐄)](https://git.io/typing-svg)
 
 <p align="left">
-<a href='https://sheikh-session-57705c83b082.herokuapp.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-<p align="left">
 <a href='https://sheikh-ali-md-pair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkblue?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
