@@ -76,7 +76,7 @@ href="https://youtube.com/@sheikh-ali-2412?si=0WslRm5BX7pUymxX" target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkblue?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
-https://sheikh-ali-md-pair-56461d0adaac.herokuapp.com/
+https://sheikh-ali-md-pair-c55c8ad84c03.herokuapp.com/
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
